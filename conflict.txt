@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 This line was changed in main branch.
 
 
 dfsf dfassdafasharishh
+=======
+This line was changed in feature branch.
+
+
+
+harishhhhhhhhhh 
+>>>>>>> a09f7a7b9e26a9b76226059796d5b90213b3a6df
